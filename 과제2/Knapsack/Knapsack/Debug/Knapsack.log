@@ -1,0 +1,8 @@
+﻿  Knapsack.cpp
+c:\users\pc\desktop\학교\수업\3-1\알고리즘1\과제2\knapsack\knapsack\knapsack.cpp(29): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+c:\users\pc\desktop\학교\수업\3-1\알고리즘1\과제2\knapsack\knapsack\knapsack.cpp(30): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 'fopen' 선언을 참조하십시오.
+c:\users\pc\desktop\학교\수업\3-1\알고리즘1\과제2\knapsack\knapsack\knapsack.cpp(101): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 'fopen' 선언을 참조하십시오.
+  Knapsack.vcxproj -> C:\Users\PC\Desktop\학교\수업\3-1\알고리즘1\과제2\Knapsack\Debug\Knapsack.exe

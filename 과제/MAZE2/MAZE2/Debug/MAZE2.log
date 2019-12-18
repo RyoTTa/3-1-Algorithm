@@ -1,0 +1,5 @@
+﻿  MAZE.c
+c:\users\pc\desktop\학교\수업\3-1\알고리즘1\과제\maze2\maze2\maze.c(57): warning C4013: 'malloc'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\pc\desktop\학교\수업\3-1\알고리즘1\과제\maze2\maze2\maze.c(57): warning C4133: '=': 'int **'과(와) 'char **' 사이의 형식이 호환되지 않습니다.
+c:\users\pc\desktop\학교\수업\3-1\알고리즘1\과제\maze2\maze2\maze.c(59): warning C4133: '=': 'int *'과(와) 'char *' 사이의 형식이 호환되지 않습니다.
+  MAZE2.vcxproj -> C:\Users\PC\Desktop\학교\수업\3-1\알고리즘1\과제\MAZE2\Debug\MAZE2.exe

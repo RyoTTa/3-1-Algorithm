@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NQ_deterministic", "NQ_deterministic\NQ_deterministic.vcxproj", "{64C3453A-7B50-4B3F-B521-4DB2EC47617C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64C3453A-7B50-4B3F-B521-4DB2EC47617C}.Debug|x64.ActiveCfg = Debug|x64
+		{64C3453A-7B50-4B3F-B521-4DB2EC47617C}.Debug|x64.Build.0 = Debug|x64
+		{64C3453A-7B50-4B3F-B521-4DB2EC47617C}.Debug|x86.ActiveCfg = Debug|Win32
+		{64C3453A-7B50-4B3F-B521-4DB2EC47617C}.Debug|x86.Build.0 = Debug|Win32
+		{64C3453A-7B50-4B3F-B521-4DB2EC47617C}.Release|x64.ActiveCfg = Release|x64
+		{64C3453A-7B50-4B3F-B521-4DB2EC47617C}.Release|x64.Build.0 = Release|x64
+		{64C3453A-7B50-4B3F-B521-4DB2EC47617C}.Release|x86.ActiveCfg = Release|Win32
+		{64C3453A-7B50-4B3F-B521-4DB2EC47617C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7CBB53D-92DB-4F75-9AEA-9FD68F3B058B}
+	EndGlobalSection
+EndGlobal

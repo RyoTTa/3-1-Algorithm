@@ -1,0 +1,16 @@
+﻿  소스.c
+c:\users\pc\desktop\학교\수업\3-1\알고리즘1\과제\maze\maze\소스.c(57): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 'sprintf' 선언을 참조하십시오.
+c:\users\pc\desktop\학교\수업\3-1\알고리즘1\과제\maze\maze\소스.c(68): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 'sprintf' 선언을 참조하십시오.
+c:\users\pc\desktop\학교\수업\3-1\알고리즘1\과제\maze\maze\소스.c(85): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+c:\users\pc\desktop\학교\수업\3-1\알고리즘1\과제\maze\maze\소스.c(87): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 'fopen' 선언을 참조하십시오.
+c:\users\pc\desktop\학교\수업\3-1\알고리즘1\과제\maze\maze\소스.c(92): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: 'fscanf' 선언을 참조하십시오.
+c:\users\pc\desktop\학교\수업\3-1\알고리즘1\과제\maze\maze\소스.c(95): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: 'fscanf' 선언을 참조하십시오.
+c:\users\pc\desktop\학교\수업\3-1\알고리즘1\과제\maze\maze\소스.c(106): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 'fopen' 선언을 참조하십시오.
+  MAZE.vcxproj -> C:\Users\PC\Desktop\학교\수업\3-1\알고리즘1\과제\MAZE\Debug\MAZE.exe
